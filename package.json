@@ -1,6 +1,9 @@
 {
   "name": "nuxt-theory",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
   "description": "My super-excellent Nuxt.js project",
   "author": "Vladilen",
   "private": true,
