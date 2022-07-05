@@ -1,0 +1,37 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Projects\\\\nuxt-course\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_23947a63"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Projects\\\\nuxt-course\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_419fc31b"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\Projects\\\\nuxt-course\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_14a74508"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "C:\\\\Projects\\\\nuxt-course\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_0dd2e970"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Projects\\\\nuxt-course\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_77f82004"
+  }
+]
