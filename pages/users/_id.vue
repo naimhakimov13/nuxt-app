@@ -11,13 +11,13 @@ export default {
   // validate({params}) {
   //   return /^\d+$/.test(params.id)
   // },
-  async asyncData({params, store}) {
-    try {
-      const user = await store.dispatch('users/fetchUserById', params.id)
-      return {user}
-    } catch (e) {
-      console.log(e)
-    }
-  }
+ // async asyncData({params, store}) {
+ //   try {
+  //    const user = await store.dispatch('users/fetchUserById', params.id)
+//      return {user}
+ //   } catch (e) {
+ //     console.log(e)
+//    }
+ // }
 }
 </script>
