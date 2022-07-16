@@ -23,7 +23,7 @@ export const actions = {
   //   } catch (e) {
   //     throw e
   //   }
-  // }
+  //   }
 }
 
 export const getters = {
